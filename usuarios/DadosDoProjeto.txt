@@ -1,0 +1,8 @@
+/* 
+Descricao : Api rest usando django
+	O que o arquivo faz : ele adicona e exclui algum usuario alem de poder busca o usuario pelo seu id
+Aluno :Mauro Henrique Santana Alves
+	Nome Completo
+Data :25/07/2021
+	dia / mes / ano
+*/
