@@ -60,3 +60,11 @@ Caso o ambiente virtual tenha sido ativado o nome aparecerá em destaque à fren
 
    python manage.py runserver
 Com isso, já é possível testar a aplicação em sua máquina.
+
+# Aluno:
+
+Mauro Henrique Santana Alves
+
+# Data de criação do projeto
+
+31/07/2021
